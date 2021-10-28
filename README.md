@@ -1,4 +1,4 @@
-# Zuber Eats
+# Awesome Eats
 
 Lets make a revolutionary website.
 
@@ -8,9 +8,9 @@ Below that we will have a categories section displaying different categories of 
 
 The categories will be:
 
--   pizza
--   indian
--   thai
--   burgers
--   mexican
--   sushi
+- pizza
+- indian
+- thai
+- burgers
+- mexican
+- sushi
